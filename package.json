@@ -2,7 +2,7 @@
   "name": "vidyoiotokengenerator",
   "version": "1.0.0",
   "description": "vidyo.io token generator",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
